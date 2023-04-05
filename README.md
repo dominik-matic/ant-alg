@@ -3,6 +3,7 @@
 The implementation here is essentially a max min algorithm with an added mechanism of elitism.
 
 main takes in a lot of arguments, all of them are single letters followed by a value, numerical or otherwise, here's what they mean:
+
 	-f [path to file which contains the graph data, as shown in matrix.txt]
 	-s [seed for the RNG, optional]
 	-n [number of ants in the colony]
